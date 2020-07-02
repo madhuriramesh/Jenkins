@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 58BF-E71E
+
+ Directory of C:\Users\DELL\Desktop\Python
+
+07/02/2020  11:49 PM    <DIR>          .
+07/02/2020  11:49 PM    <DIR>          ..
+05/05/2020  11:23 PM                20 Mad.py
+07/02/2020  11:49 PM                 0 Test.txt
+               2 File(s)             20 bytes
+               2 Dir(s)  210,782,298,112 bytes free
